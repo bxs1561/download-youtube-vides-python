@@ -20,7 +20,7 @@ def main():
     download_youtube_video()
 
 
-# run program
+# run programs
 if __name__ == '__main__':
     main()
 
